@@ -11,6 +11,12 @@
 
 **Problem Statement:** The business processes of the major travel companies call management centre should automate the routing of calls to reduce wait times for connecting with a RM, aid their booking of holiday packages and promote efficiency within the business.
 
+**Empathy Maps:**
+
+![RM](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20relationship%20managers.png)
+![endCustomer](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20end%20customers.png)
+![potentialCustomer](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20potential%20customers.png)
+
 **POV Statements:**
 
 As an RM I want to:
