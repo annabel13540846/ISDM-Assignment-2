@@ -50,12 +50,11 @@ The project has a series of stakeholders including:
 
 | Stakeholder | Explanation |
 | - | - |
-| Relationship managers | - |
+| Relationship managers | The travel companies employees, the relationship managers, will interact with the system to automate their calls and complete their jobs on a daily basis. |
 | Profiler tool | - |
-| Travel company | - |
-| End-customers | - |
-| Potential customers | - |
-| Travel company management | - |
+| Travel company | The travel company is the client requesting the design and development of the CRM system. As the client, the travel company directly influences the system through timeline, scope, budget and business decisions resulting in the final system. |
+| Potential / End-customers | Customers of the travel company will be interacting with the system when they call the company for travel advice which can be moderated to assign the call to the appropriate RM. |
+| Travel company management | The managers of the travel company will be able to use the system to gather data on employees and track progress. |
 
 ### Empathy Maps
 
