@@ -94,7 +94,7 @@ Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Ass
 ### Use cases
 
 ### Activity diagrams
-(https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20Customer.png)
+![EndCustomer](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20Customer.png)
 ### Class diagrams
 
 ### Collaborative diagrams
