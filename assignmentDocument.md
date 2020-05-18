@@ -85,6 +85,8 @@ HMW are short statements built from a POV statements that brainstorm potential s
 
 ### Backlog
 
+Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Assignment-2/projects/2)
+
 ### Reflection
 
 ## Work Products, Models and Descriptions
