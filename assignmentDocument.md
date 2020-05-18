@@ -92,7 +92,7 @@ HMW are short statements built from a POV statements that brainstorm potential s
 ### Use cases
 
 ### Activity diagrams
-
+https://user-images.githubusercontent.com/62223418/82173489-c6ad6400-9910-11ea-9a2b-2498d4ccb82c.png
 ### Class diagrams
 
 ### Collaborative diagrams
