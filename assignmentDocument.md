@@ -43,6 +43,13 @@ During busy times a customer is directed to an interactive voice response unit p
 * CMC system will be used in conjunction with existing systems.
 * CMC system has a call recording system.
 * RMs profile is automatically updated with every customer they deal with.
+* RMs use the CMC system to perform sales.
+* CMC will provide multiple Interactive Voice Response options to transfer customers to a suitable RM.
+* Customers will provide accurate information to the RM and the profiling tool.
+* CMC system will always match and serve customers with the most suitable RM (even if their profiles don't exactly match).
+* CMC system has existing customer communication systems.
+* CMC system has existing payment infrastructure.
+* CMC system will meet information security regulatory requirements.
 
 ### List of Stakeholders
 
