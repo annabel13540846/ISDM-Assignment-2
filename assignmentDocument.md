@@ -98,7 +98,7 @@ Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Ass
 ![RM](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20RM..png)
 ![TravelCompanyManager](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20Travel%20company%20manager..png)
 ### Class diagrams
-
+![ClassDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Class%20diagram.jpeg)
 ### Collaborative diagrams
 
 ## Competitive Advantages and Possible Effects of Failure
