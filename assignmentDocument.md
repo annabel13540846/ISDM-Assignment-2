@@ -98,6 +98,16 @@ Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Ass
 
 ## Work Products, Models and Descriptions
 
+### User stories
+* As a customer I want to be connected with a knowledgeable RM so that I can inquire about a holiday package.  
+* As a customer I want to be connected to an RM in a short amount of time so that I can minimise my wait time. 
+* As a RM I want to sell customers holiday packages to fulfil requirements of my job. 
+* As a RM I want to have a profile so that I can be matched to customers in my area of knowledge so that I can perform sales more effectively. 
+* As an end-customer I want to be served by RM’s who have knowledge of my holiday packages so that they can help me plan new holidays and answer questions about purchased holidays. 
+* As an end-customer I want to receive offers for holidays that I may be interested based upon my pervious holiday bookings to minimise time spent researching. 
+* As a customer I want to have a profile so that I do not have to repeat my details each time I call a RM do minimise repetition of my data. 
+* As a travel company employee I want to be able to organise trip packages so that there is less work for the RM’s to complete, maximising efficiency.  
+
 ### Use cases
 
 ### Activity diagrams
