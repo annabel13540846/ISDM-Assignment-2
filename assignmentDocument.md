@@ -90,6 +90,32 @@ POV defines the problem to solve in the ideation phase in the Design Thinking pr
 
 HMW are short statements built from a POV statements that brainstorm potential solutions.
 
+How Might We Statements
+
+* How Might We minimise customer call waiting time?
+* How Might We generate skill scores for RMs?
+* How Might We create RM profiles?
+* How Might We create customer profiles?
+* How Might We appropriately match RMs to customers?
+* How Might We decrease waiting times for customers?
+* How Might We calculate the likelihood of a customer to purchase a product?
+* How Might We decide on which targeted customers to provide to which RM?
+* How Might We direct customers to an Interactive Voice Response Unit?
+* How Might We improve the relationship between the customer and RM?
+* How Might We improve the customer's experience while they're calling?
+* How Might We speed up the call rate for RMs?
+* How Might We increase the RMs performance and product knowledge?
+* How Might We recommend better purchase options for our customers?
+* How Might We ensure RM profiles and skills are kept up to date?
+* How Might We ensure that automatic outbound marketing/selling calls are not excessive?
+* How Might We ensure customer satisfaction is achieved?
+* How Might We ensure that the system works effectively?
+* How Might We ensure that the system is saving the business money in the long term?
+* How Might We make the wait time for the customers enjoyable or productive?
+* How Might We automatically route calls to the relevant RMs?
+* How Might We organise customer profiles so RMs can see relevant information easily?
+* How Might We log customer information?
+
 ### Backlog
 
 Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Assignment-2/projects/2)
