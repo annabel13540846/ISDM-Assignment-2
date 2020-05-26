@@ -133,7 +133,8 @@ Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Ass
 * As a customer I want to have a profile so that I do not have to repeat my details each time I call a RM do minimise repetition of my data.
 * As a travel company employee I want to be able to organise trip packages so that there is less work for the RMs to complete, maximising efficiency.  
 
-### Use cases
+### Use case diagram
+![UseCaseDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/isdm%20use%20case%20(1).png)
 
 ### Activity diagrams
 
