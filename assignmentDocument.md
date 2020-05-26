@@ -147,6 +147,6 @@ Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Ass
 
 ### Collaborative diagrams
 
-![CollaborativeDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Collaborative%20diagram.jpeg)
+![CollaborativeDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Collaborative%20diagram%20after%20tutor%20feedback.jpeg)
 
 ## Competitive Advantages and Possible Effects of Failure
