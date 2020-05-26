@@ -139,9 +139,7 @@ Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Ass
 
 ### Activity diagrams
 
-![EndCustomer](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20Customer.png)
-![RM](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20RM..png)
-![TravelCompanyManager](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20Travel%20company%20manager..png)
+![ActivityDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20after%20tutor%20feedback.png)
 
 ### Class diagrams
 
