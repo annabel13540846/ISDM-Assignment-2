@@ -90,8 +90,6 @@ POV defines the problem to solve in the ideation phase in the Design Thinking pr
 
 HMW are short statements built from a POV statements that brainstorm potential solutions.
 
-How Might We Statements
-
 * How Might We minimise customer call waiting time?
 * How Might We generate skill scores for RMs?
 * How Might We create RM profiles?
