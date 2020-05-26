@@ -139,7 +139,7 @@ Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Ass
 
 ### Activity diagrams
 
-![ActivityDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20after%20tutor%20feedback.png)
+![ActivityDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20after%20tutor%20feedback..png)
 
 ### Class diagrams
 
