@@ -121,6 +121,14 @@ Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Ass
 
 ### Reflection
 
+We used the Design Thinking methodology to design a CMC solution to solve the problems faced by the Travel Company.
+
+Step 1 was to gain an empathic understanding of the problem we were trying to solve. Empathy is important in human-centered design processes and allowed us to set aside our original assumptions and gain insight into the stakeholders. We gained an understanding of the users feelings, their needs and the problems that underline the development of the CMC system.
+
+Instead of interviews, we analysed the project specification and noted our assumptions. Empathy maps have been valuable in attaining an alternative perspective of between the RM and end-customer relationship. We sought to understand and empathise with the feelings, needs and wants of the stakeholders of the new CMC system. Interestingly, the end-customer did not have a strong relationship with the CMC system - they are strongly bound to the relationship with their RM. The empathic phase identified the key stakeholders of this new CMC system.
+
+Step 2 was to combine and analyse the information discovered during the empathise stage. POV and HMW statements analysed the core problems that we identified. POV statements will assist in generating a greater quantity of quality solutions, focused on our users, their needs, and our insights about them during ideation. HMW statements analysed the POV statements and aimed to assist in brainstorming potential solutions.
+
 ## Work Products, Models and Descriptions
 
 ### User stories
