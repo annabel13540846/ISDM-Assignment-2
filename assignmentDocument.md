@@ -43,6 +43,13 @@ During busy times a customer is directed to an interactive voice response unit p
 * CMC system will be used in conjunction with existing systems.
 * CMC system has a call recording system.
 * RMs profile is automatically updated with every customer they deal with.
+* RMs use the CMC system to perform sales.
+* CMC will provide multiple Interactive Voice Response options to transfer customers to a suitable RM.
+* Customers will provide accurate information to the RM and the profiling tool.
+* CMC system will always match and serve customers with the most suitable RM (even if their profiles don't exactly match).
+* CMC system has existing customer communication systems.
+* CMC system has existing payment infrastructure.
+* CMC system will meet information security regulatory requirements.
 
 ### List of Stakeholders
 
@@ -50,11 +57,10 @@ The project has a series of stakeholders including:
 
 | Stakeholder | Explanation |
 | - | - |
-| Relationship managers | The travel companies employees, the relationship managers, will interact with the system to automate their calls and complete their jobs on a daily basis. |
-| Profiler tool | - |
+| Relationship managers | Travel company employees. Will use the system to automate their calls and sell holiday packages. |
 | Travel company | The travel company is the client requesting the design and development of the CRM system. As the client, the travel company directly influences the system through timeline, scope, budget and business decisions resulting in the final system. |
-| Potential / End-customers | Customers of the travel company will be interacting with the system when they call the company for travel advice which can be moderated to assign the call to the appropriate RM. |
-| Travel company management | The managers of the travel company will be able to use the system to gather data on employees and track progress. |
+| Potential / End-customers | Customers of the travel company will interact with the system when they call the company for travel advice which can be moderated to assign the call to the appropriate RM. |
+| Travel company management | The managers of the travel company will use the system to produce financial and performance reports. |
 
 ### Empathy Maps
 
@@ -84,18 +90,63 @@ POV defines the problem to solve in the ideation phase in the Design Thinking pr
 
 HMW are short statements built from a POV statements that brainstorm potential solutions.
 
+* How Might We minimise customer call waiting time?
+* How Might We generate skill scores for RMs?
+* How Might We create RM profiles?
+* How Might We create customer profiles?
+* How Might We appropriately match RMs to customers?
+* How Might We decrease waiting times for customers?
+* How Might We calculate the likelihood of a customer to purchase a product?
+* How Might We decide on which targeted customers to provide to which RM?
+* How Might We direct customers to an Interactive Voice Response Unit?
+* How Might We improve the relationship between the customer and RM?
+* How Might We improve the customer's experience while they're calling?
+* How Might We speed up the call rate for RMs?
+* How Might We increase the RMs performance and product knowledge?
+* How Might We recommend better purchase options for our customers?
+* How Might We ensure RM profiles and skills are kept up to date?
+* How Might We ensure that automatic outbound marketing/selling calls are not excessive?
+* How Might We ensure customer satisfaction is achieved?
+* How Might We ensure that the system works effectively?
+* How Might We ensure that the system is saving the business money in the long term?
+* How Might We make the wait time for the customers enjoyable or productive?
+* How Might We automatically route calls to the relevant RMs?
+* How Might We organise customer profiles so RMs can see relevant information easily?
+* How Might We log customer information?
+
 ### Backlog
+
+Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Assignment-2/projects/2)
 
 ### Reflection
 
 ## Work Products, Models and Descriptions
 
-### Use cases
+### User stories
+
+* As a customer I want to be connected with a knowledgeable RM so that I can inquire about a holiday package.  
+* As a customer I want to be connected to an RM in a short amount of time so that I can minimise my wait time.
+* As a RM I want to sell customers holiday packages to fulfil requirements of my job.
+* As a RM I want to have a profile so that I can be matched to customers in my area of knowledge so that I can perform sales more effectively.
+* As an end-customer I want to be served by RMs who have knowledge of my holiday packages so that they can help me plan new holidays and answer questions about purchased holidays.
+* As an end-customer I want to receive offers for holidays that I may be interested based upon my pervious holiday bookings to minimise time spent researching.
+* As a customer I want to have a profile so that I do not have to repeat my details each time I call a RM do minimise repetition of my data.
+* As a travel company employee I want to be able to organise trip packages so that there is less work for the RMs to complete, maximising efficiency.  
+
+### Use case diagram
+
+![UseCaseDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/isdm%20use%20case%20(1).png)
 
 ### Activity diagrams
 
+![ActivityDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20after%20tutor%20feedback..png)
+
 ### Class diagrams
 
+![ClassDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Class%20diagram.jpeg)
+
 ### Collaborative diagrams
+
+![CollaborativeDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Collaborative%20diagram%20after%20tutor%20feedback.jpeg)
 
 ## Competitive Advantages and Possible Effects of Failure
