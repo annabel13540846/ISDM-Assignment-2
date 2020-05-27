@@ -26,6 +26,7 @@ During busy times a customer is directed to an interactive voice response unit p
 * Training for the new CMC system will be internally managed.
 * RMs successfully use sales techniques to sell holiday packages.
 * RMs are unable to see their own profile scores.
+* Customers currently experience long wait times, directly impacting sales.
 * Existing scored customers will be prioritised over new customers.
 * The travel company does not have an online website for their customers to find holiday packages.
 * The travel company has found the benefits of matching customer and RM profiles.
