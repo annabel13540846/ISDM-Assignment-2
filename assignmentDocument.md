@@ -124,14 +124,19 @@ Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Ass
 
 ### User stories
 
+* As the travel company I want an updated call management system to improve the performance of the business.
+* As a travel company employee I want to be able to organise trip packages so that there is less work for the RM’s to complete, maximising efficiency.  
+* As a RM I want to sell customers holiday packages to fulfil requirements of my job. 
 * As a customer I want to be connected with a knowledgeable RM so that I can inquire about a holiday package.  
-* As a customer I want to be connected to an RM in a short amount of time so that I can minimise my wait time.
-* As a RM I want to sell customers holiday packages to fulfil requirements of my job.
-* As a RM I want to have a profile so that I can be matched to customers in my area of knowledge so that I can perform sales more effectively.
-* As an end-customer I want to be served by RMs who have knowledge of my holiday packages so that they can help me plan new holidays and answer questions about purchased holidays.
-* As an end-customer I want to receive offers for holidays that I may be interested based upon my pervious holiday bookings to minimise time spent researching.
-* As a customer I want to have a profile so that I do not have to repeat my details each time I call a RM do minimise repetition of my data.
-* As a travel company employee I want to be able to organise trip packages so that there is less work for the RMs to complete, maximising efficiency.  
+* As a RM, I want to have an voice response feature unit in the call management system so it can handle the overflow calls when there are too many inbound calls at once.
+* As an RM I want to be well informed about holiday packages the travel company is advertising so that I can better communicate with customers.
+* As an end-customer I want to receive offers for holidays that I may be interested based upon my pervious holiday bookings to minimise time spent researching. 
+* As a customer I want to be connected to an RM in a short amount of time so that I can minimise my wait time. 
+* As a RM I want to have a profile so that I can be matched to customers in my area of knowledge so that I can perform sales more effectively. 
+* As the travel company I want to track the performance of RM's so that the business can be managed effectively.
+* As an end-customer I want to be served by RM’s who have knowledge of my holiday packages so that they can help me plan new holidays and answer questions about purchased holidays. 
+* As the travel company I want to be able to track the skill scores of RMs so that the best employees can serve the more valuable customers.
+* As a customer I want to have a profile so that I do not have to repeat my details each time I call a RM do minimise repetition of my data. 
 
 ### Use case diagram
 
