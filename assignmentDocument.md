@@ -124,6 +124,8 @@ Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Ass
 
 ### User stories
 
+Our prioritised backlog can be found [here.](https://github.com/annabel13540846/ISDM-Assignment-2/projects/1)
+
 * As the travel company I want an updated call management system to improve the performance of the business.
 * As a travel company employee I want to be able to organise trip packages so that there is less work for the RM’s to complete, maximising efficiency.  
 * As a RM I want to sell customers holiday packages to fulfil requirements of my job. 
