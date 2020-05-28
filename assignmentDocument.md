@@ -65,7 +65,7 @@ The project has a series of stakeholders including:
 ### Empathy Maps
 
 ![RM](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20relationship%20managers%20(1).png)
-![EndCustomer](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20end%20customers.png)
+![Out Bound Customer](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20outbound%20customers.png)
 ![In Bound Customer](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20inbound%20customers.png)
 
 ### Point of View (POV) Statements
