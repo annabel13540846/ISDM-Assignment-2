@@ -156,5 +156,6 @@ Our prioritised backlog can be found [here.](https://github.com/annabel13540846/
 
 ![CollaborativeDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Collaborative%20diagram%20after%20tutor%20feedback.jpeg)
 ![Out Bound Customer collaborative diagram](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Outbound%20customer%20collaborative%20diagram.png)
+![In Bound Customer collaborative diagram](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Inbound%20customer%20collaborative%20diagram.png)
 
 ## Competitive Advantages and Possible Effects of Failure
