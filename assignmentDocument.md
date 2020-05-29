@@ -186,6 +186,6 @@ Finally, Increased staff performance is a particularly helpful advantage of the 
 
 <ins>Risk of Failure</ins>  
 While these improvements to the system are encouraging, a number of risks must be considered as a result of system failure. Below are number of results that may occur should the system fail immediately after installation or randomly during its lifetime:
--	Lack of training for future employed staff on manual allocation jobs may result in a severe over burdening of the team should the system fail.
--	If the system were to fail during its lifetime, there would be a very significant decrease in productivity as hold times increase and repeat customers are lost to competition.
--	Should the system fail immediately after installation the company may find that they are being outperformed by their competition developing similar systems. 
+* Lack of training for future employed staff on manual allocation jobs may result in a severe over burdening of the team should the system fail.
+* If the system were to fail during its lifetime, there would be a very significant decrease in productivity as hold times increase and repeat customers are lost to competition.
+* Should the system fail immediately after installation the company may find that they are being outperformed by their competition developing similar systems. 
