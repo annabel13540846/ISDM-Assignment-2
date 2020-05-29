@@ -149,19 +149,19 @@ Our prioritised backlog can be found [here.](https://github.com/annabel13540846/
 * As the travel company I want to be able to track the skill scores of RMs so that the best employees can serve the more valuable customers.
 * As a customer I want to have a profile so that I do not have to repeat my details each time I call a RM do minimise repetition of my data. 
 
-### Use case diagram
+### Use case Diagram
 
 ![UseCaseDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/isdm%20use%20case%20(1).png)
 
-### Activity diagrams
+### Activity Diagrams
 
 ![ActivityDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20after%20tutor%20feedback..png)
 
-### Class diagrams
+### Class Diagrams
 
 ![ClassDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Class%20diagram.jpeg)
 
-### Collaborative diagrams
+### Collaborative Diagrams
 
 ![CollaborativeDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Collaborative%20diagram%20after%20tutor%20feedback.jpeg)
 As an out-bound customer I want to receive offers for holidays that I may be interested based upon my pervious holiday bookings to minimise time spent researching. 
