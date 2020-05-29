@@ -26,6 +26,7 @@ During busy times a customer is directed to an interactive voice response unit p
 * Training for the new CMC system will be internally managed.
 * RMs successfully use sales techniques to sell holiday packages.
 * RMs are unable to see their own profile scores.
+* Customers currently experience long wait times, directly impacting sales.
 * Existing scored customers will be prioritised over new customers.
 * The travel company does not have an online website for their customers to find holiday packages.
 * The travel company has found the benefits of matching customer and RM profiles.
@@ -64,9 +65,9 @@ The project has a series of stakeholders including:
 
 ### Empathy Maps
 
-![RM](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20relationship%20managers.png)
-![EndCustomer](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20end%20customers.png)
-![PotentialCustomer](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20potential%20customers.png)
+![RM](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20relationship%20managers%20(1).png)
+![Out Bound Customer](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20outbound%20customers.png)
+![In Bound Customer](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Empathy%20map%20-%20inbound%20customers.png)
 
 ### Point of View (POV) Statements
 
@@ -90,24 +91,82 @@ POV defines the problem to solve in the ideation phase in the Design Thinking pr
 
 HMW are short statements built from a POV statements that brainstorm potential solutions.
 
+* How Might We minimise customer call waiting time?
+* How Might We generate skill scores for RMs?
+* How Might We create RM profiles?
+* How Might We create customer profiles?
+* How Might We appropriately match RMs to customers?
+* How Might We decrease waiting times for customers?
+* How Might We calculate the likelihood of a customer to purchase a product?
+* How Might We decide on which targeted customers to provide to which RM?
+* How Might We direct customers to an Interactive Voice Response Unit?
+* How Might We improve the relationship between the customer and RM?
+* How Might We improve the customer's experience while they're calling?
+* How Might We speed up the call rate for RMs?
+* How Might We increase the RMs performance and product knowledge?
+* How Might We recommend better purchase options for our customers?
+* How Might We ensure RM profiles and skills are kept up to date?
+* How Might We ensure that automatic outbound marketing/selling calls are not excessive?
+* How Might We ensure customer satisfaction is achieved?
+* How Might We ensure that the system works effectively?
+* How Might We ensure that the system is saving the business money in the long term?
+* How Might We make the wait time for the customers enjoyable or productive?
+* How Might We automatically route calls to the relevant RMs?
+* How Might We organise customer profiles so RMs can see relevant information easily?
+* How Might We log customer information?
+
 ### Backlog
 
 Our project backlog can be found [here.](https://github.com/youngsang12/ISDM-Assignment-2/projects/2)
 
 ### Reflection
 
+We used the Design Thinking methodology to design a CMC solution to solve the problems faced by the Travel Company.
+
+Step 1 was to gain an empathic understanding of the problem we were trying to solve. Empathy is important in human-centered design processes and allowed us to set aside our original assumptions and gain insight into the stakeholders. We gained an understanding of the users feelings, their needs and the problems that underline the development of the CMC system.
+
+Instead of interviews, we analysed the project specification and noted our assumptions. Empathy maps have been valuable in attaining an alternative perspective of between the RM and end-customer relationship. We sought to understand and empathise with the feelings, needs and wants of the stakeholders of the new CMC system. Interestingly, the end-customer did not have a strong relationship with the CMC system - they are strongly bound to the relationship with their RM. The empathic phase identified the key stakeholders of this new CMC system.
+
+Step 2 was to combine and analyse the information discovered during the empathise stage. POV and HMW statements analysed the core problems that we identified. POV statements will assist in generating a greater quantity of quality solutions, focused on our users, their needs, and our insights about them during ideation. HMW statements analysed the POV statements and aimed to assist in brainstorming potential solutions.
+
 ## Work Products, Models and Descriptions
 
-### Use cases
+### User stories
+
+Our prioritised backlog can be found [here.](https://github.com/annabel13540846/ISDM-Assignment-2/projects/1)
+
+* As the travel company I want an updated call management system to improve the performance of the business.
+* As a travel company employee I want to be able to organise trip packages so that there is less work for the RM’s to complete, maximising efficiency.  
+* As a RM I want to sell customers holiday packages to fulfil requirements of my job. 
+* As a customer I want to be connected with a knowledgeable RM so that I can inquire about a holiday package.  
+* As a RM, I want to have an voice response feature unit in the call management system so it can handle the overflow calls when there are too many inbound calls at once.
+* As an RM I want to be well informed about holiday packages the travel company is advertising so that I can better communicate with customers.
+* As an end-customer I want to receive offers for holidays that I may be interested based upon my pervious holiday bookings to minimise time spent researching. 
+* As a customer I want to be connected to an RM in a short amount of time so that I can minimise my wait time. 
+* As a RM I want to have a profile so that I can be matched to customers in my area of knowledge so that I can perform sales more effectively. 
+* As the travel company I want to track the performance of RM's so that the business can be managed effectively.
+* As an end-customer I want to be served by RM’s who have knowledge of my holiday packages so that they can help me plan new holidays and answer questions about purchased holidays. 
+* As the travel company I want to be able to track the skill scores of RMs so that the best employees can serve the more valuable customers.
+* As a customer I want to have a profile so that I do not have to repeat my details each time I call a RM do minimise repetition of my data. 
+
+### Use case diagram
+
+![UseCaseDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/isdm%20use%20case%20(1).png)
 
 ### Activity diagrams
-![EndCustomer](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20Customer.png)
-![RM](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20RM..png)
-![TravelCompanyManager](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20Travel%20company%20manager..png)
+
+![ActivityDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Activity%20diagram%20after%20tutor%20feedback..png)
+
 ### Class diagrams
+
 ![ClassDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Class%20diagram.jpeg)
+
 ### Collaborative diagrams
-![CollaborativeDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Collaborative%20diagram.jpeg)
+
+![CollaborativeDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Collaborative%20diagram%20after%20tutor%20feedback.jpeg)
+![Out Bound Customer collaborative diagram](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Outbound%20customer%20collaborative%20diagram.png)
+![In Bound Customer collaborative diagram](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Inbound%20customer%20collaborative%20diagram.png)
+
 ## Competitive Advantages and Possible Effects of Failure
 The production and upgrade of the travel company’s in-house call management system has been purpose built to streamline the sales making process with an overall goal of bosting profits. Listed Below are a number of intended benefits this project should have on the operation of the company.
 
