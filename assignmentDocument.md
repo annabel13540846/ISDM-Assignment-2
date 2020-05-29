@@ -87,7 +87,7 @@ POV defines the problem to solve in the ideation phase in the Design Thinking pr
 
 ## Design Thinking
 
-### How Might We (HMW) statements
+### How Might We (HMW) Statements
 
 HMW are short statements built from a POV statements that brainstorm potential solutions.
 
@@ -131,7 +131,7 @@ Step 2 was to combine and analyse the information discovered during the empathis
 
 ## Work Products, Models and Descriptions
 
-### User stories
+### User Stories
 
 Our prioritised backlog can be found [here.](https://github.com/annabel13540846/ISDM-Assignment-2/projects/1)
 
