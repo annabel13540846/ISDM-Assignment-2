@@ -159,7 +159,7 @@ Our prioritised backlog can be found [here.](https://github.com/annabel13540846/
 
 ### Class Diagrams
 
-![ClassDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Class%20diagram.jpeg)
+![ClassDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Class%20diagram.png)
 
 ### Collaborative Diagrams
 
