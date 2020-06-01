@@ -164,9 +164,13 @@ Our prioritised backlog can be found [here.](https://github.com/annabel13540846/
 ### Collaborative Diagrams
 
 ![CollaborativeDiagram](https://github.com/youngsang12/ISDM-Assignment-2/blob/master/Collaborative%20diagram%20after%20tutor%20feedback.jpeg)
+
 As an out-bound customer I want to receive offers for holidays that I may be interested based upon my pervious holiday bookings to minimise time spent researching. 
+
 ![Out Bound Customer collaborative diagram](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Outbound%20customer%20collaborative%20diagram.png)
+
 As an in-bound customer I want to be connected with a knowledgeable RM so that I can inquire about a holiday package:
+
 ![In Bound Customer collaborative diagram](https://github.com/annabel13540846/ISDM-Assignment-2/blob/master/Inbound%20customer%20collaborative%20diagram.png)
 
 ## Competitive Advantages and Possible Effects of Failure
